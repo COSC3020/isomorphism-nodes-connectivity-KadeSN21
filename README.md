@@ -10,7 +10,7 @@ $G_1=(V_1 , E_1)$ is isomorphic to $G_2 = (V_2, E_2)$ if there exists a
 one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,v)
 \in E_1$ iff $(f(u),f(v)) \in E_2$.
 
-In a completely connected graph, all verticies are connected to eachother by an edge. For example, if we have a graph $G1$ with verticies $x,y,z,w$ the graph contains the edges $(x,y), (x,z), (x,w), (y,z), (y,w), (z,w)$ In order to prove that another completely connected graoh with the same number of nodes as $G1$ is isomorphic to $G1$, we need to find a "one-to-one" relationship between the,m, meaning that for every vertex in $G1$, there is a vertex in $G2$  
+In a completely connected graph, all verticies are connected to eachother by an edge. For example, if we have a graph $G1$ with verticies $x,y,z,w$ the graph contains the edges $(x,y), (x,z), (x,w), (y,z), (y,w), (z,w)$ In order to prove that another completely connected graoh with the same number of nodes as $G1$ is isomorphic to $G1$, we need to find a "one-to-one" relationship between them, meaning that for every vertex in $G1$ with , there is a vertex in $G2$ 
 
 help: To refresh my knowledge of complete graphs https://study.com/academy/lesson/complete-graph-definition-example.html
 
